@@ -21,6 +21,8 @@ import {
 
 } from "react-icons/ri"
 import { FaWordpress, FaVk } from "react-icons/fa"
+import { SiOrcid SiResearchgate } from "react-icons/si"
+
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -188,6 +190,20 @@ const HomePage = ({ data }) => {
         {icons.icon === "vk" ? (
           <Link to={icons.url} target="_blank">
             <FaVk />
+          </Link>
+        ) : (
+          ""
+        )}
+        {icons.icon === "orcid" ? (
+          <Link to={icons.url} target="_blank">
+            <SiOrcid />
+          </Link>
+        ) : (
+          ""
+        )}
+        {icons.icon === "researchgate" ? (
+          <Link to={icons.url} target="_blank">
+            <SiResearchgate />
           </Link>
         ) : (
           ""
