@@ -18,6 +18,8 @@ import {
   RiDribbbleFill,
   RiMediumFill,
   RiBehanceFill,
+  SiOrcid,
+  MdPlayArrow
 } from "react-icons/ri"
 import { FaWordpress, FaVk } from "react-icons/fa"
 
