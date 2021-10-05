@@ -18,10 +18,10 @@ import {
   RiDribbbleFill,
   RiMediumFill,
   RiBehanceFill,
-
+  RiRegisteredLine,
+  RiOperaLine
 } from "react-icons/ri"
 import { FaWordpress, FaVk } from "react-icons/fa"
-import { SiOrcid SiResearchgate } from "react-icons/si"
 
 
 import Layout from "../components/layout"
@@ -190,6 +190,20 @@ const HomePage = ({ data }) => {
         {icons.icon === "vk" ? (
           <Link to={icons.url} target="_blank">
             <FaVk />
+          </Link>
+        ) : (
+          ""
+        )}
+        {icons.icon === "orcid" ? (
+          <Link to={icons.url} target="_blank">
+            <RiOperaLine />
+          </Link>
+        ) : (
+          ""
+        )}
+        {icons.icon === "researchgate" ? (
+          <Link to={icons.url} target="_blank">
+            <RiRegisteredLine />
           </Link>
         ) : (
           ""
