@@ -18,10 +18,11 @@ import {
   RiDribbbleFill,
   RiMediumFill,
   RiBehanceFill,
-  SiOrcid,
-  MdPlayArrow
+
 } from "react-icons/ri"
 import { FaWordpress, FaVk } from "react-icons/fa"
+import { SiOrcid } from "react-icons/si"
+import { MdPlayArrow } from "react-icons/md"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
