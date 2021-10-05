@@ -194,20 +194,6 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "orcid" ? (
-          <Link to={icons.url} target="_blank">
-            <SiOrcid />
-          </Link>
-        ) : (
-          ""
-        )}
-        {icons.icon === "researchgate" ? (
-          <Link to={icons.url} target="_blank">
-            <SiResearchgate />
-          </Link>
-        ) : (
-          ""
-        )}
       </div>
     )
   })
