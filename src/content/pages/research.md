@@ -1,5 +1,5 @@
 ---
-template: research-page
+template: about-page
 slug: /research
 title: Research
 ---
