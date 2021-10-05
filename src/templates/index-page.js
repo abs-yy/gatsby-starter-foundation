@@ -193,6 +193,20 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        {icons.icon === "orcid" ? (
+          <Link to={icons.url} target="_blank">
+            <SiOrcid />
+          </Link>
+        ) : (
+          ""
+        )}
+        {icons.icon === "researchmap" ? (
+          <Link to={icons.url} target="_blank">
+            <MdPlayArrow />
+          </Link>
+        ) : (
+          ""
+        )}
       </div>
     )
   })
