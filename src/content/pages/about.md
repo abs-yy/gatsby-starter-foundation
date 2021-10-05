@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Feketerigoremet
 ---
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys") 
 
