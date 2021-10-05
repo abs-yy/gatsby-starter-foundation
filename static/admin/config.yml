@@ -196,6 +196,8 @@ collections:
                     "medium",
                     "behance",
                     "vk",
+                    "orcid",
+                    "links"
                   ]
                 hint: "Select the Icon"
               - widget: string
