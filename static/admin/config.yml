@@ -197,7 +197,7 @@ collections:
                     "behance",
                     "vk",
                     "orcid",
-                    "links"
+                    "researchgate"
                   ]
                 hint: "Select the Icon"
               - widget: string
