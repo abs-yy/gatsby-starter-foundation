@@ -61,6 +61,12 @@ collections:
           widget: "markdown",
           hint: "Main content goes here.",
         }
+      - {
+          label: "Body2",
+          name: "body2",
+          widget: "markdown",
+          hint: "Main content goes here.",
+        }
   - label: "Pages"
     name: "pages"
     files:
@@ -89,7 +95,7 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body2", name: "body2", widget: "markdown" }
       - label: "About"
         name: "about"
         file: "src/content/pages/about.md"
