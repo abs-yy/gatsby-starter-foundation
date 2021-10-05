@@ -1,24 +1,20 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
-    },
-    {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "https://www.linkedin.com/in/feketerioremet/"
     },
     {
-      "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
+      "icon": "twitter",
+      "url": "https://twitter.com/feketerigoremet"
     },
     {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "icon": "medium",
+      "url": "https://researchmap.jp/feketerigoremet"
+    },
+    {
+      "url": "https://orcid.org/0000-0003-2749-8171",
+      "icon": "wordpress"
     }
   ]
 }
