@@ -3,17 +3,13 @@ template: about-page
 slug: /about
 title: About Feketerigoremet
 ---
-## AREAS OF EXPERTISE
-
-Bioinformatics / Genomics / Transcriptomics / Tardigrade 
-
-## HONORS
+## Honors
 
 1. \[04/2021-03/2024] **Research Fellowship for Young Researchers (PD)**, Japan Society for the Promotion of Science, JAPAN.
 
 2. \[04/2018-03/2021] **JSPS Research Fellowship (DC1)**, Japan Society for the Promotion of Science, JAPAN.
 
-## EDUCATION
+## Education
 
 \> **Ph. D.**
 
@@ -30,7 +26,7 @@ Systems Biology Program, Graduate School of Media and Governance, **Keio Univers
 Faculty of Environment and Information Studies, **Keio University** (03/2016)\
 **Thesis**: Transcriptome analysis of the extremophile *Ramazzottius varieornatus* aimed for the comprehensive identification of genes related to anhydrobiosis
 
-## PUBLICATIONS
+## Publications
 
 ### Academic papers
 
